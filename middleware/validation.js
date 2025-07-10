@@ -1,4 +1,3 @@
-
 // Middleware for JWT authentication
 const validateSession = async (req, res, next) => {
     try {

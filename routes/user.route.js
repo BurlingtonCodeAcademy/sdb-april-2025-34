@@ -1,4 +1,3 @@
-
 // import the necessary modules
 const { Router } = require("express")
 const User = require("../models/user.model")
